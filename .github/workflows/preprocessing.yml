@@ -28,7 +28,7 @@ jobs:
 
       - name: Run preprocessing script
         run: |
-          python preprocessing/automate_preprocess.py
+          python preprocessing/automate_Erwin-Hafiz-Triadi.py
 
       - name: Commit updated dataset
         run: |
